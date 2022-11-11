@@ -43,23 +43,6 @@
 <br />
 <br />
 
-### Portfolio (some examples)
-
-[<img align="left" alt="porten" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kpk.jpg" />](https://kpk-status.yaltaphil.ru)
-
-
-[<img align="left" alt="porten" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/porten.gif" />](https://yaltaphil.github.io/porten)
-
-
-[<img align="left" alt="big-theather" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
-
-<br />
-
----
-
-<br />
-<br />
-
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olanondel&layout=compact)](https://github.com/Olanondel)
