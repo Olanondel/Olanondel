@@ -39,7 +39,9 @@
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 </div>
 
----
+<br />
+<br />
+<br />
 
 ### Portfolio (some examples)
 
@@ -50,6 +52,8 @@
 
 
 [<img align="left" alt="big-theather" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
+
+---
 
 <br />
 <br />
