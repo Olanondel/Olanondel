@@ -2,6 +2,7 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
     I am a Front-end Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> from Ukraine.
+    <br />
     <img src="https://komarev.com/ghpvc/?username=Olanondel&style=flat-square&color=blue" alt="" />
 </h1>
 
