@@ -32,11 +32,14 @@
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 </div>
 
 <br />
-
----
+<br />
+<br />
 
 ### :fire: My Stats :
 
