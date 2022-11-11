@@ -39,9 +39,7 @@
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 </div>
 
-<br />
-<br />
-<br />
+---
 
 ### Portfolio (some examples)
 
