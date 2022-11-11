@@ -56,4 +56,4 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=Olanondel&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Olanondel&style=flat-square&color=blue" alt="" align="center" />
