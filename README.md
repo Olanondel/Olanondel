@@ -44,7 +44,6 @@
 <br />
 
 ### Portfolio (some examples)
-<div>
 
 [<img align="left" alt="porten" width="160px" height="120px" src="https://raw.githubusercontent.com/Yaltaphil/Yaltaphil/main/kpk.jpg" />](https://kpk-status.yaltaphil.ru)
 
@@ -53,8 +52,6 @@
 
 
 [<img align="left" alt="big-theather" width="160px" height="120px" src="https://github.com/Yaltaphil/Yaltaphil/blob/main/big-theater.gif" />](https://yaltaphil.github.io/big-theater)
-
-</div>
 
 <br />
 <br />
