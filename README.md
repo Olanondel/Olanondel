@@ -22,6 +22,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
@@ -31,6 +32,7 @@
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
 <img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" />
+</div>
 
 ---
 
