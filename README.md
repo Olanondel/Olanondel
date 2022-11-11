@@ -1,6 +1,7 @@
 <h1>
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>,
+    I am a Front-end Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> from Ukraine.
 </h1>
 
 <div align="center">
@@ -9,8 +10,6 @@
 
 ### :woman_technologist: About Me :
 
-I am a Front-end Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30"> from Ukraine.
-
 - :telescope: I’m working as a Software Engineer and contributing business logic for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -18,6 +17,28 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6
 - :zap: In my free time, I improve my dev skills and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="TS" width="48px" src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" />
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olanondel)](https://github.com/Olanondel/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olanondel)](https://github.com/Olanondel)
 
 <div id="badges">
   <a href="your-linkedin-URL">
@@ -28,12 +49,4 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/L8K62iTDkzGX6
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
-
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olanondel)](https://github.com/Olanondel/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Olanondel)](https://github.com/Olanondel)
+<img src="https://komarev.com/ghpvc/?username=Olanondel&style=flat-square&color=blue" alt=""/>
